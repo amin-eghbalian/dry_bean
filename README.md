@@ -1,4 +1,4 @@
-![My Image](images/Beans.jpg)
+![My Image](images/Beans.jpeg)
 # Dry Bean Data Analysis And ML Modeling
 
 The data set is about classification of dry beans. There are 16 feature and one target named "Class". Some features like Area are directly comes from shape of beans and some of them like ShapeFactor1 are combination of other features. For example: 
