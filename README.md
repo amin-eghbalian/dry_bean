@@ -46,7 +46,7 @@ Finally they will be compared each other.
 
 ## Results
 At first step EDA was done, for example how many instances are in each Classes:
-![My Image](number_of_instances.png)
+![My Image](images/number_of_instances.png)
 The next step was modeling. For modeling data, **five** different models were used:
 * **Logistic Regression**
 * **KNN**
