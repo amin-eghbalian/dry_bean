@@ -33,6 +33,7 @@ Finally they will be compared each other.
 ├── images
 ├── dry_bean.ipynb
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 
