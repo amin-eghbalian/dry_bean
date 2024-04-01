@@ -24,13 +24,6 @@ Features are:
 * ShapeFactor4 (SF4)
 * Class (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira)
 
-For modeling data, **five** different models were used:
-* **Logistic Regression**
-* **KNN**
-* **SVC**
-* **Random Forest**
-* **XGBoost**
-
 Finally they will be compared each other. 
 
 ## Code structure
@@ -52,7 +45,14 @@ Finally they will be compared each other.
         - xlsx file
 
 ## Results
-
-Totally all result, before and after cross validation step, were shown in next bar plot. 
+At first step EDA was done, for example how many instances are in each Classes:
+![My Image](number_of_instances.png)
+The next step was modeling. For modeling data, **five** different models were used:
+* **Logistic Regression**
+* **KNN**
+* **SVC**
+* **Random Forest**
+* **XGBoost**
+All models were tested in Cross Validation. Totally all result, before and after cross validation step, were shown in next bar plot. 
 
 ![My Image](images/compare.png)
