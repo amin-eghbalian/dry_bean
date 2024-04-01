@@ -54,6 +54,7 @@ The next step was modeling. For modeling data, **five** different models were us
 * **SVC**
 * **Random Forest**
 * **XGBoost**
+
 All models were tested in Cross Validation. Totally all result, before and after cross validation step, were shown in next bar plot. 
 
 ![My Image](images/compare.png)
